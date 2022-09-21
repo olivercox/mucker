@@ -1,0 +1,26 @@
+{
+  "name": "mucker",
+  "version": "0.1.0",
+  "description": "Mock server that returns what you tell it to.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivercox/mucker.git"
+  },
+  "keywords": [
+    "mock",
+    "server"
+  ],
+  "author": "https://github.com/olivercox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivercox/mucker/issues"
+  },
+  "homepage": "https://github.com/olivercox/mucker#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
